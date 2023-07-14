@@ -2,7 +2,7 @@
 
 
 Hi there 👋
-Hi there 👋 I am Sourav Chakraborty
+Hi there 👋 I am
 
 🌱 I’m currently interested in Offensive Security.
 
@@ -12,4 +12,4 @@ Hi there 👋 I am Sourav Chakraborty
 
 ⚡ Fun fact: I take help of ChatGPT and Stackoverflow and use it as a refence instead of copying the code and pasting it.
 
-📫 Reach out to me on: https://www.linkedin.com/in/sourav-chakraborty-a6b2b9224/
+📫 Reach out to me on: 
