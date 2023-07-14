@@ -1,15 +1,11 @@
 # Kalpit
-
-
-Hi there 👋
-Hi there 👋 I am
-
-🌱 I’m currently interested in Offensive Security.
-
-👯 I’m looking to collaborate on Application Security Projects.
-
-💬 Ask me about Application Security.
-
+ Hi, I’m Kalpit Das
+👀 I’m a CyberSecurity Enthusiast.
+🌱 I’m currently learning with Internet.
+💞️ I’m looking to collaborate with cybersecurity python projects.
+📫 How to reach me ...  https://www.linkedin.com/in/kalpit-d-ab042820b/
+Feel free to connect with me on Linkedin.
+Learning new technologies everyday to become better than my past self.
 ⚡ Fun fact: I take help of ChatGPT and Stackoverflow and use it as a refence instead of copying the code and pasting it.
 
-📫 Reach out to me on: 
+
